@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ActivityResultsLauncherKotlin</string>
+    <string name="loaded_image">Loaded Image</string>
+    <string name="load_image">Load Image</string>
+</resources>
